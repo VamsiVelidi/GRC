@@ -76,7 +76,7 @@ Subcategory numbers have gaps on purpose. A gap marks a CSF 1.1 item that was mo
 | 03 | Identify (ID) |   |
 | 04 | Protect (PR) |   |
 | 05 | Detect (DE) | [Detect] ([nist-csf-2.0/NIST CSF 2.0 – Detect (DE)](https://github.com/VamsiVelidi/GRC/blob/main/nist-csf-2.0/NIST%20CSF%202.0%20–%20Detect%20(DE))) | |
-| 06 | Respond (RS) | [Respond] (https://github.com/VamsiVelidi/GRC/blob/main/nist-csf-2.0/NIST%20CSF%202.0%20–%20Respond%20(RS)) |
+| 06 | Respond (RS) | [Respond] ([nist-csf-2.0/NIST CSF 2.0 – Respond (RS)](https://github.com/VamsiVelidi/GRC/blob/main/nist-csf-2.0/NIST%20CSF%202.0%20–%20Respond%20(RS))) |
 | 07 | Recover (RC) |   |
 
 
