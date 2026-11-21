@@ -72,13 +72,13 @@ Subcategory numbers have gaps on purpose. A gap marks a CSF 1.1 item that was mo
 
 | # | Function | Note |
 |---|---|---|
-| 02 | Govern (GV) | Planned |
-| 03 | Identify (ID) | Planned |
-| 04 | Protect (PR) | Planned |
-| 05 | Detect (DE) | [Detect notes]([nist-csf-2.0/NIST CSF 2.0 – Detect (DE)](https://github.com/VamsiVelidi/GRC/blob/main/nist-csf-2.0/NIST%20CSF%202.0%20–%20Detect%20(DE))) | |
+| 02 | Govern (GV) |   |
+| 03 | Identify (ID) |   |
+| 04 | Protect (PR) |   |
+| 05 | Detect (DE) | [Detect]([nist-csf-2.0/NIST CSF 2.0 – Detect (DE)](https://github.com/VamsiVelidi/GRC/blob/main/nist-csf-2.0/NIST%20CSF%202.0%20–%20Detect%20(DE))) | |
 | 06 | Respond (RS) | [06-respond.md](06-respond.md) |
-| 07 | Recover (RC) | Planned |
-| 08 | CSF 2.0 vs ISO/IEC 27001 | Planned |
+| 07 | Recover (RC) |   |
+
 
 ## Official sources
 - [NIST CSF 2.0 (CSWP 29)](https://doi.org/10.6028/NIST.CSWP.29)
