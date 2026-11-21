@@ -75,7 +75,7 @@ Subcategory numbers have gaps on purpose. A gap marks a CSF 1.1 item that was mo
 | 02 | Govern (GV) | Planned |
 | 03 | Identify (ID) | Planned |
 | 04 | Protect (PR) | Planned |
-| 05 | Detect (DE) | <nist-csf-2.0/NIST CSF 2.0 – Detect (DE)> |
+| | 05 | Detect (DE) | [Detect notes](nist-csf-2.0/NIST CSF 2.0 – Detect (DE)) | |
 | 06 | Respond (RS) | [06-respond.md](06-respond.md) |
 | 07 | Recover (RC) | Planned |
 | 08 | CSF 2.0 vs ISO/IEC 27001 | Planned |
