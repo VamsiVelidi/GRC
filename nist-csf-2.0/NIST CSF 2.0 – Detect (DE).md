@@ -52,6 +52,7 @@ Evidence to request:
 - Alert triage SLAs and a sample of closed alerts
 - Incident classification matrix
 - Evidence that threat intelligence feeds are actually used
+- A sample of closed false positives with triage notes. This proves that reviews operate routinely and not only during the adversaries. 
 
 ## Sources
 - [NIST CSF 2.0 (CSWP 29)](https://doi.org/10.6028/NIST.CSWP.29)
