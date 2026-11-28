@@ -14,7 +14,7 @@ My personal wiki for **Governance, Risk and Compliance (GRC)**, written as I lea
 
 ## Background
 
-- Masters in Cybersecurity (La Trobe University)
+- Masters in Cybersecurity (La Trobe University/ Melbourne)
 - ~6 years in QA / test automation, moving into GRC and security
 - ISTQB CTFL, AWS Certified Cloud Practitioner
 
